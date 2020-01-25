@@ -1,0 +1,15 @@
+[package]
+name = "neo4j"
+version = "0.0.0"
+authors = ["Luc Street <lucis-fluxum@users.noreply.github.com>"]
+description = "A neo4j database client library.\n"
+homepage = "https://github.com/lucis-fluxum/neo4j-rs"
+repository = "https://github.com/lucis-fluxum/neo4j-rs"
+categories = ["database", "asynchronous"]
+keywords = ["neo4j", "bolt", "database", "client"]
+license = "MIT"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
